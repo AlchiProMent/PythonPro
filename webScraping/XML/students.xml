@@ -1,0 +1,187 @@
+<root>
+    <title>Список студентов 1 курса ВУВЗ с адресами проживания в общежитии</title>
+    <header>
+        <col1>№</col1>
+        <col2>ФИО</col2>
+        <col3>Место рождения</col3>
+        <col4>Факультет</col4>
+        <col5>Общежитие</col5>
+        <col6>Адрес</col6>
+    </header>
+    <students>
+        <student>
+            <num>1</num>
+            <name>Асташенков К.Л.</name>
+            <city>Москва</city>
+            <faculty>ФИТ</faculty>
+        </student>
+        <student>
+            <num>2</num>
+            <name>Белоусов Д.А.</name>
+            <city>Рязань</city>
+            <faculty>ФИТ</faculty>
+            <campus>Корпус 1</campus>
+            <address>ул.Синеухова, 23</address>
+        </student>
+        <student>
+            <num>3</num>
+            <name>Бутримов А.Н.</name>
+            <city>Москва</city>
+            <faculty>ФПА</faculty>
+        </student>
+        <student>
+            <num>4</num>
+            <name>Велихов Х.В.</name>
+            <city>Москва</city>
+            <faculty>ФИТ</faculty>
+        </student>
+        <student>
+            <num>5</num>
+            <name>Высочанская А.П.</name>
+            <city>Москва</city>
+            <faculty>ФИТ</faculty>
+        </student>
+        <student>
+            <num>6</num>
+            <name>Демина М.С.</name>
+            <city>Нижний Новгород</city>
+            <faculty>ФИТ</faculty>
+            <campus>Корпус 1</campus>
+            <address>ул.Синеухова, 23</address>
+        </student>
+        <student>
+            <num>7</num>
+            <name>Докукин Д.Н.</name>
+            <city>Владикавказ</city>
+            <faculty>ФРТ</faculty>
+            <campus>Корпус 2</campus>
+            <address>ул.Чипполино, 45</address>
+        </student>
+        <student>
+            <num>8</num>
+            <name>Доморацкая И.А.</name>
+            <city>Бийск</city>
+            <faculty>ФПА</faculty>
+            <campus>Корпус 1</campus>
+            <address>ул.Синеухова, 23</address>
+        </student>
+        <student>
+            <num>9</num>
+            <name>Ефремова И.Н.</name>
+            <city>Москва</city>
+            <faculty>ФИТ</faculty>
+        </student>
+        <student>
+            <num>10</num>
+            <name>Завакин Д.А.</name>
+            <city>Санкт-Петерубрг</city>
+            <faculty>ФИТ</faculty>
+            <campus>Корпус 1</campus>
+            <address>ул.Синеухова, 23</address>
+        </student>
+        <student>
+            <num>11</num>
+            <name>Зайцева О.В.</name>
+            <city>Томск</city>
+            <faculty>ФРТ</faculty>
+            <campus>Корпус 2</campus>
+            <address>ул.Чипполино, 45</address>
+        </student>
+        <student>
+            <num>12</num>
+            <name>Исаев С.В.</name>
+            <city>Москва</city>
+            <faculty>ФПА</faculty>
+        </student>
+        <student>
+            <num>13</num>
+            <name>Исаков В.Р.</name>
+            <city>Рыбинск</city>
+            <faculty>ФПА</faculty>
+            <campus>Корпус 2</campus>
+            <address>ул.Чипполино, 45</address>
+        </student>
+        <student>
+            <num>14</num>
+            <name>Ким Р.А.</name>
+            <city>Москва</city>
+            <faculty>ФИТ</faculty>
+        </student>
+        <student>
+            <num>15</num>
+            <name>Козлов А.К.</name>
+            <city>Москва</city>
+            <faculty>ФПМ</faculty>
+        </student>
+        <student>
+            <num>16</num>
+            <name>Козлова А.А.</name>
+            <city>Оренбург</city>
+            <faculty>ФРТ</faculty>
+            <campus>Корпус 1</campus>
+            <address>ул.Синеухова, 23</address>
+        </student>
+        <student>
+            <num>17</num>
+            <name>Коптелевский Ю.И.</name>
+            <city>Москва</city>
+            <faculty>ФИТ</faculty>
+        </student>
+        <student>
+            <num>18</num>
+            <name>Кутергин С.И.</name>
+            <city>Москва</city>
+            <faculty>ФПА</faculty>
+        </student>
+        <student>
+            <num>19</num>
+            <name>Лебедев А.Д.</name>
+            <city>Санкт-Петерубрг</city>
+            <faculty>ФИТ</faculty>
+            <campus>Корпус 2</campus>
+            <address>ул.Чипполино, 45</address>
+        </student>
+        <student>
+            <num>20</num>
+            <name>Лобачевский М.К.</name>
+            <city>Москва</city>
+            <faculty>ФИТ</faculty>
+        </student>
+        <student><num>21</num><name>Мастренко М.В.</name><city>Москва</city><faculty>ФПМ</faculty></student><student>
+            <num>22</num>
+            <name>Михалков Д.В.</name>
+            <city>Москва</city>
+            <faculty>ФРТ</faculty>
+        </student>
+        <student><num>23</num><name>Мищук А.Г.</name><city>Москва</city><faculty>ФПМ</faculty></student><student>
+            <num>24</num>
+            <name>Найденкова Д.М.</name>
+            <city>Иваново</city>
+            <faculty>ФИТ</faculty>
+            <campus>Корпус 2</campus>
+            <address>ул.Чипполино, 45</address>
+        </student>
+    <student>
+            <num>25</num>
+            <name>Сорокин Д.К.</name>
+            <city>Санкт-Петерубрг</city>
+            <faculty>ФПА</faculty>
+            <campus>Корпус 1</campus>
+            <address>ул.Синеухова, 23</address>
+        </student>
+        <student>
+            <num>26</num>
+            <name>Тагай А.Е.</name>
+            <city>Москва</city>
+            <faculty>ФРТ</faculty>
+        </student>
+        <student>
+            <num>27</num>
+            <name>Черкашин А.Н.</name>
+            <city>Новосибирск</city>
+            <faculty>ФИТ</faculty>
+            <campus>Корпус 1</campus>
+            <address>ул.Синеухова, 23</address>
+        </student>
+        </students>
+</root>

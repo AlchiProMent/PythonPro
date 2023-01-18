@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Пример формы</title>
+</head>
+<body>
+<h1>Пример формы</h1>
+<form action="https://www.google.com/search" method="GET">
+    <label>Поисковый запрос:</label> <br>
+    <input name="q" type="text" autofocus maxlength="255"><br>
+
+    <fieldset disabled>
+        <legend> Укажите языки, которыми владеете:</legend>
+        <input type="checkbox" name="ch1" value="Python" checked>Python<br>
+        <input type="checkbox" name="ch2" value="Cplus">C++<br>
+        <input type="checkbox" name="ch3" value="Java" checked>Java<br>
+        <input type="checkbox" name="ch4" value="Delphi">Delphi<br>
+        <input type="checkbox" name="ch5" value="Others">Others<br>
+    </fieldset>
+    <br>
+    <fieldset>
+        <legend> Вы хотите путешествовать: </legend>
+        <input type="radio" name="travel" value="1"><label>Паровозом</label><br>
+        <input type="radio" name="travel" value="2"><label>Пароходом</label><br>
+        <input type="radio" name="travel" value="3" checked><label>Дирижаблем</label><br>
+        <input type="radio" name="travel" value="4"><label>Аэропланом</label><br>
+    </fieldset><br>
+
+    <label>Валюта оплаты:</label><br>
+    <select size="5" multiple name="currency">
+        <option>Рубли</option>
+        <option selected>Юань</option>
+        <option>Фунт стерлингов</option>
+        <option>Евро</option>
+        <option>Доллар</option>
+    </select><br><br>
+
+    <input type="color"><br>
+    <input type="date"><br>
+    <input type="file"><br>
+    <input type="range" min="0" max="100"><br><br>
+    <label>Электронный адрес:</label> <br>
+    <input name="mail" type="email"><br>
+
+    <br><label>Комментарий:</label> <br>
+    <textarea cols="50" rows="6" name="txt1">
+        Текст по умолчанию...
+    </textarea>
+
+    <input type="hidden" name="secret" value="123456789abcdefg">
+
+    <br><input type="submit" value="Отправить">
+</form>
+</body>
+</html>
