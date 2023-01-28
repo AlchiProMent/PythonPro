@@ -44,3 +44,9 @@
 * goSearch.py
 ###### PythonPro/AboutSelenium/scr
 * [empty]
+#### Лекция 13: Введение в SQL и базы данных с помощью Python.
+###### PythonPro/DB
+* students.db
+###### PythonPro/SQLite3
+* dbConnect.py
+* editrec.py
