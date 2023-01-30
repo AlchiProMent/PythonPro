@@ -50,3 +50,14 @@
 ###### PythonPro/SQLite3
 * dbConnect.py
 * editrec.py
+#### Лекция 14: SQL и базы данных; работа с Excel и CSV
+###### PythonPro/Excel
+* csv_work.py
+* readExcelFile.py
+* saveExcelFile.py
+* список.xlsx
+###### PythonPro/SQLite3
+* create_db.sql
+* create_students_db.py
+* delrec.py
+* insert_data.py
