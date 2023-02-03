@@ -61,3 +61,9 @@
 * create_students_db.py
 * delrec.py
 * insert_data.py
+#### Лекция 15: Введение в NumPy
+###### PythonPro/NumPyDemo
+* algebra.py
+* firstArray.py
+* manipulation.py
+* operations.py
