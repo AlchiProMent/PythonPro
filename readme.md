@@ -67,3 +67,9 @@
 * firstArray.py
 * manipulation.py
 * operations.py
+#### Лекция 16: Введение в pandas
+###### PythonPro/TamePandas
+* DataFrameDemo.py
+* IndexObj.py
+* Operations.py
+* Operations.py
