@@ -73,3 +73,8 @@
 * IndexObj.py
 * Operations.py
 * Operations.py
+#### Лекция 17: Работа с пропущенными значениями в данных
+###### PythonPro/MissingData
+* completing.py
+* filtration_data.py
+* standard_methods.py
