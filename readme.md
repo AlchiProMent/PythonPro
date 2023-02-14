@@ -78,3 +78,15 @@
 * completing.py
 * filtration_data.py
 * standard_methods.py
+#### Лекция 18: Презентации данных с matplotlib
+###### PythonPro/chartTypes
+* barDemo.py
+* horizBarDemo.py
+* pieDemo.py
+* plotDemo.py
+* scatterDemo.py
+###### PythonPro/MPL
+* Figures.py
+* firstGraph.py
+* graph_construct.py
+* multiGraphs.py
