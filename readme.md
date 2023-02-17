@@ -90,3 +90,14 @@
 * firstGraph.py
 * graph_construct.py
 * multiGraphs.py
+#### Лекция 19: Plotly: интерактивные визуализации
+###### PythonPro/WithPlotly
+* AggBars.py
+* ColoredBars.py
+* countryPop.py
+* DashDemo.py
+* expScatter.py
+* First.py
+* hoverLabels.py
+* medals.py
+* pieChart.py
