@@ -101,3 +101,14 @@
 * hoverLabels.py
 * medals.py
 * pieChart.py
+#### Лекция 20: EDA, НБК, NLP
+###### PythonPro/BayesianProbability
+* BayesSpam.py
+* spam.xlsx
+###### PythonPro/DB
+* police_killings.csv
+###### PythonPro/EDA
+* step_by_step.py
+* graph.html
+###### PythonPro/NLP
+* firstStep.py
